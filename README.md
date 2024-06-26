@@ -1,8 +1,8 @@
 # **Hi there!**
 
 
-<img height=220 align="left" src="https://github-readme-stats-git-master-matrix2100s-projects.vercel.app/api?username=Matrix2100" />
-<img height=220 align="right" src="https://github-readme-stats-git-master-matrix2100s-projects.vercel.app/api/top-langs?username=Matrix2100&layout=compact&langs_count=8&card_width=320" />
+<img height=210 align="left" src="https://github-readme-stats-git-master-matrix2100s-projects.vercel.app/api?username=Matrix2100" />
+<img height=210 align="right" src="https://github-readme-stats-git-master-matrix2100s-projects.vercel.app/api/top-langs?username=Matrix2100&layout=compact&langs_count=8&card_width=320" />
 
 
 **I'm passionate about tackling challenges and diving into unusual projects, always exploring new technologies and coding languages!**
