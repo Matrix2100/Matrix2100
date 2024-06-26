@@ -1,19 +1,12 @@
 # **Hi there!**
-
+**I'm passionate about tackling challenges and diving into unusual projects, always exploring new technologies and coding languages!**
 
 <img height=201 align="left" src="https://github-readme-stats-git-master-matrix2100s-projects.vercel.app/api?username=Matrix2100" />
 <img height=201 align="right" src="https://github-readme-stats-git-master-matrix2100s-projects.vercel.app/api/top-langs?username=Matrix2100&layout=compact&langs_count=8&card_width=320" />
 
+</br></br>
 
-**I'm passionate about tackling challenges and diving into unusual projects, always exploring new technologies and coding languages!**
-
-</br>
-  
 *Note: My C# commits are not reflected here due to my email being set to private. Otherwise, C# would be my top language.*
-
-
-
-
 
 
 # Projects I'm Working On:
