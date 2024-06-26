@@ -1,4 +1,4 @@
-# **Hi there!**
+# **Hi there! ~~Trying to be active and publish new projects~~**
 **I'm passionate about tackling challenges and diving into unusual projects, always exploring new technologies and coding languages!**
 
 <img height=201 align="left" src="https://github-readme-stats-git-master-matrix2100s-projects.vercel.app/api?username=Matrix2100" />
@@ -9,7 +9,7 @@
 *Note: My C# commits are not reflected here due to my email being set to private. Otherwise, C# would be my top language.*
 
 
-# Projects I'm Working On:
+# Projects I've Been Working On:
 - Laravel 11 API Focusing on Decoupling:
   - Developing an API with Laravel 11, emphasizing decoupling for scalability and flexibility.
     
